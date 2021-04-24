@@ -1,0 +1,23 @@
+{"item_cls":[
+  {"id":"001","name":"通用","code":"tongyong"},
+  {"id":"002","name":"女装","code":"nvzhuang"},
+  {"id":"003","name":"男装","code":"nanzhuang"},
+  {"id":"004","name":"内衣","code":"nvyi"},
+  {"id":"005","name":"鞋袜","code":"xiewa"},
+  {"id":"006","name":"母婴","code":"muyin"},
+  {"id":"007","name":"童装","code":"tongzhuang"},
+  {"id":"008","name":"玩具","code":"wanju"},
+  {"id":"009","name":"美妆","code":"meizhuang"},
+  {"id":"010","name":"家装","code":"jiazhuang"},
+  {"id":"011","name":"手机","code":"shouji"},
+  {"id":"012","name":"电器","code":"dianqi"},
+  {"id":"013","name":"箱包","code":"xiangbao"},
+  {"id":"014","name":"零食","code":"lingshi"},
+  {"id":"015","name":"办公","code":"bangong"},
+  {"id":"016","name":"饰品","code":"shipin"},
+  {"id":"017","name":"情趣","code":"qingqu"},
+  {"id":"018","name":"汽车","code":"qiche"},
+  {"id":"019","name":"茶酒","code":"chajiu"},
+  {"id":"020","name":"鲜花","code":"xianhua"},
+  {"id":"021","name":"学生","code":"xuesheng"}
+]}
